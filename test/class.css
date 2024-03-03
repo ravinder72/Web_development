@@ -1,0 +1,21 @@
+h1{
+    color: blue;
+    background-color: green;
+}
+p{
+    color: rgba(195, 13, 241, 0.79);
+    background-color: black;
+}
+.background{
+    background-image: url("../movies/kJG74Y1RxLLjRLYOTrBclWpbvkz.jpg");
+    background-size: 400px;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 700px;
+}
+img{
+    border : 2px solid black;
+    margin: 10px;
+    height: 100px;
+    width: 200px;
+}
